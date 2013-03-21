@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:4277e11ef8ca35f8ec0ed1cb23b1dba8$ -->
+<TextureAtlas imagePath="montest.png">
+    <SubTexture name="x1" x="404" y="188" width="91" height="91"/>
+    <SubTexture name="x2" x="218" y="195" width="91" height="91"/>
+    <SubTexture name="x3" x="311" y="188" width="91" height="91"/>
+    <SubTexture name="x4" x="2" y="125" width="91" height="91"/>
+    <SubTexture name="x5" x="125" y="121" width="91" height="91"/>
+    <SubTexture name="x6" x="218" y="102" width="91" height="91"/>
+    <SubTexture name="x7" x="331" y="95" width="91" height="91"/>
+    <SubTexture name="x8" x="331" y="2" width="91" height="91"/>
+    <SubTexture name="x9" x="125" y="28" width="91" height="91"/>
+    <SubTexture name="avatar" x="2" y="2" width="121" height="121"/>
+    <SubTexture name="bg" x="490" y="2" width="14" height="8"/>
+    <SubTexture name="drugs_particle" x="424" y="68" width="64" height="64"/>
+    <SubTexture name="fire_particle" x="458" y="134" width="30" height="30" frameX="0" frameY="0" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="jellyfish_particle" x="424" y="2" width="64" height="64"/>
+    <SubTexture name="memo-header" x="125" y="2" width="104" height="24"/>
+    <SubTexture name="min-off" x="231" y="2" width="98" height="98"/>
+    <SubTexture name="monstar32" x="424" y="134" width="32" height="32"/>
+    <SubTexture name="sun_particle" x="424" y="68" width="64" height="64"/>
+</TextureAtlas>
